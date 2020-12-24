@@ -1,0 +1,23 @@
+<resources>
+    <!--  Title for application   -->
+    <string name="app_name">Learn Sanskrit</string>
+
+    <!-- Category name for the vocabulary words for colors   -->
+    <string name="category_numbers">Numbers</string>
+
+    <!--    Category name for the vocabulary words for colors  -->
+    <string name="category_colors">Colors</string>
+
+    <!--    Category name for the vocabulary words for family  -->
+    <string name="category_family">Family</string>
+
+    <!--  Category name for Phrases    -->
+    <string name="category_phrases">Phrases</string>
+
+    <!--    Category name for additional learning resources -->
+    <string name="category_additional_res">Additional Resources</string>
+
+    <!--    Category tab for developer info -->
+    <string name="about_app">About</string>
+
+</resources>
