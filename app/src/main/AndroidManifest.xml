@@ -6,9 +6,26 @@
             android:allowBackup="true"
             android:icon="@mipmap/ic_launcher"
             android:label="@string/app_name"
-            android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".AboutActivity"
+                  android:label="About">
+        </activity>
+        <activity android:name=".AdditionalResourcesActivity"
+                  android:label="Resources">
+        </activity>
+        <activity android:name=".PhrasesActivity"
+                  android:label="Phrases">
+        </activity>
+        <activity android:name=".ColorsActivity"
+                  android:label="Colors">
+        </activity>
+        <activity android:name=".FamilyActivity"
+                  android:label="Family">
+        </activity>
+        <activity android:name=".NumbersActivity"
+                  android:label="Numbers">
+        </activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
